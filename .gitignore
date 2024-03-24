@@ -1,0 +1,19 @@
+# python
+**/__pycache__/**
+.pyre/
+.mypy_cache/
+.ruff_cache/
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
+# dotenv
+.env
+
